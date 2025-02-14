@@ -1,7 +1,7 @@
 {
   "label": "hDrop Extension",
-  "packageName": "io.hammerhead.hdrop",
-  "iconUrl": "https://raw.githubusercontent.com/hdroptech/hdrop-hammerhead-extension/main/hDropIcon.png",
+  "packageName": "io.hdrop.hdrop-extension",
+  "iconUrl": "https://raw.githubusercontent.com/hdroptech/hdrop-hammerhead-extension/main/hDrop_Logo.svg",
   "latestApkUrl": "https://raw.githubusercontent.com/hdroptech/hdrop-hammerhead-extension/main/app-release.apk",
   "latestVersion": "2.0",
   "latestVersionCode": 5,
