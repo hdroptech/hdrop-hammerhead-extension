@@ -3,9 +3,9 @@
   "packageName": "io.hdrop.hdrop_extension",
   "iconUrl": "https://raw.githubusercontent.com/hdroptech/hdrop-hammerhead-extension/main/hDropIcon.png",
   "latestApkUrl": "https://raw.githubusercontent.com/hdroptech/hdrop-hammerhead-extension/main/app-release.apk",
-  "latestVersion": "2.0",
-  "latestVersionCode": 5,
+  "latestVersion": "2.1",
+  "latestVersionCode": 6,
   "developer": "hDrop Technologies Inc.",
   "description": "hDrop Extension to track sweat, sodium, and hDrop score based on BLE scans.",
-  "releaseNotes": "Added manifest meta-data for release."
+  "releaseNotes": "Improved BLE scan reliability and added support for Android 12+."
 }
