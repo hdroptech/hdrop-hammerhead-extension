@@ -1,18 +1,18 @@
 {
-  "version": 3,
+  "version": 7,
   "artifactType": {
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "io.hammerhead.hdrop",
+  "applicationId": "io.hdrop.hdrop_extension",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 5,
-      "versionName": "2.0",
+      "versionCode": 7,
+      "versionName": "2.2",
       "outputFile": "app-release.apk"
     }
   ],
